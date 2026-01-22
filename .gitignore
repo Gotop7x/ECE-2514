@@ -1,0 +1,15 @@
+# ===== CMake =====
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build.ninja
+compile_commands.json
+
+# ===== Executables =====
+*.exe
+*.out
+a.out
+
+# ===== VS Code =====
+.vscode/
